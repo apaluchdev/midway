@@ -1,0 +1,24 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+	},
+	"[makefile]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4
+	},
+	"files.associations": {
+		"time.h": "c",
+		"raygui.h": "c",
+		"emscripten.h": "c",
+		"stdio.h": "c",
+		"websocket.h": "c",
+		"system_error": "c",
+		"utils.h": "c"
+	}
+}
